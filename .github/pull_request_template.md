@@ -7,7 +7,7 @@ Please complete the following checklist if your PR is adding new link to the lis
 - [ ] The link I add follows suggested pattern:
 
 ```
-- [Repository Name](link-to-repository-label) _(label: beginner-friendly-label-in-the-repository)_ <br> Description
+- [the-machine](https://github.com/Opaku2421/the-machine) _(label: beginner-friendly-label-in-the-repository)_ <br> an as-of-now empty 'tory
 ```
 
 Example link formatting:
